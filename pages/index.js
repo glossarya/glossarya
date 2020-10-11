@@ -8,7 +8,7 @@ function Home() {
       </Link>
     </li>
     <li>
-      <Link href="/blog/hello-world">
+      <Link href="/blog">
         <a>Blog Post</a>
       </Link>
     </li>
